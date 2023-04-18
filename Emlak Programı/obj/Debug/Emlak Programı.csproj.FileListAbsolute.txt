@@ -1,0 +1,38 @@
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\bin\Debug\Emlak Programı.exe.config
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\bin\Debug\Emlak Programı.exe
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\bin\Debug\Emlak Programı.pdb
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak Programı.csprojResolveAssemblyReference.cache
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.Properties.Resources.resources
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.SatilikKonut.resources
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak Programı.csproj.GenerateResource.Cache
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak Programı.exe
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak Programı.pdb
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.YoneticiMenu.resources
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.Giris.resources
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.kiralikisyeri.resources
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.kiralikkonut.resources
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.satilikarsa.resources
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.uyeKayit.resources
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.satilik.resources
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.kiralik.resources
+D:\Diğer\Eray\Cansu - Esra Odev\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.secim.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\bin\Debug\Emlak Programı.exe.config
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\bin\Debug\Emlak Programı.exe
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\bin\Debug\Emlak Programı.pdb
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak Programı.csproj.AssemblyReference.cache
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.ara.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.YoneticiMenu.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.Giris.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.kiralik.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.kiralikisyeri.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.kiralikkonut.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.Properties.Resources.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.satilik.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.satilikarsa.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.SatilikKonut.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.secim.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak_Programı.uyeKayit.resources
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak Programı.csproj.GenerateResource.cache
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak Programı.csproj.CoreCompileInputs.cache
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak Programı.exe
+C:\Users\Eray\Desktop\Emlak Programı\Emlak Programı\obj\Debug\Emlak Programı.pdb
